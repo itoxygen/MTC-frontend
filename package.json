@@ -171,7 +171,7 @@
     "mobx-react-lite": "^4.0.5",
     "mobx-shallow-undo": "^1.1.0",
     "nanoid": "^3.1.29",
-    "next": "^12.1.0",
+    "next": "^14.2.32",
     "next-absolute-url": "^1.2.2",
     "next-compose-plugins": "^2.2.1",
     "next-seo": "^4.26.0",
